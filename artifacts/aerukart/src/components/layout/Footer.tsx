@@ -65,7 +65,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3 text-muted-foreground">
                 <Mail className="w-5 h-5 text-accent shrink-0" />
-                <span>hello@pathway.studio</span>
+                <span>yourpathwayonline@gmail.com</span>
               </li>
             </ul>
           </div>
